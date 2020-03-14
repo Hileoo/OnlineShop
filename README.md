@@ -14,10 +14,10 @@ Briefly guide for deploying our distributed system on the server.
 4. Java Doc is located in the ./dist/javadoc/index.html  
 
 Example:  
-https://github.com/Hileoo/OnlineShop/blob/master/Demo/p1.png  
-https://github.com/Hileoo/OnlineShop/blob/master/Demo/p2.png  
-https://github.com/Hileoo/OnlineShop/blob/master/Demo/p3.png  
-https://github.com/Hileoo/OnlineShop/blob/master/Demo/p4.png  
+![](https://github.com/Hileoo/OnlineShop/blob/master/Demo/p1.png)  
+![](https://github.com/Hileoo/OnlineShop/blob/master/Demo/p2.png)  
+![](https://github.com/Hileoo/OnlineShop/blob/master/Demo/p3.png)  
+![](https://github.com/Hileoo/OnlineShop/blob/master/Demo/p4.png)  
 
 More information for usage is in the "Usage Handbook.pdf"  
 
