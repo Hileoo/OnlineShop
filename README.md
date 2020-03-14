@@ -19,5 +19,5 @@ Example:
 ![Demo3](https://github.com/Hileoo/OnlineShop/blob/master/Demo/p3.png)  
 ![Demo4](https://github.com/Hileoo/OnlineShop/blob/master/Demo/p4.png)  
 
-More information for usage is in the "Usage Handbook.pdf"  
+More information for usage is in the "Usage Handbook.pdf" 
 
